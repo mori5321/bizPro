@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "Biz Pro"
+
+
+[params]
+  description = "ビジネスパーソンのための、今日から使えるプログラミング"
