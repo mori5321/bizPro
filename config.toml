@@ -2,6 +2,8 @@ baseURL = "https://biz-programming.net/"
 languageCode = "ja"
 title = "Biz Pro"
 
+googleAnalytics = "UA-127758164-1"
+
 
 [params]
   description = "ビジネスパーソンのための、今日から使えるプログラミング"
