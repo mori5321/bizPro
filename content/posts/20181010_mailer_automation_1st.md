@@ -3,7 +3,7 @@ title: "【前編】GoogleAppScriptで面倒な挨拶メール送信を自動化
 date: 2018-10-15T16:49:35+09:00
 categories: ["自動化"]
 tags: ["Google App Script"]
-description: "ああああああ"
+description: "GoogleAppScriptで面倒な挨拶メール送信を自動化しよう"
 thumbnail: "images/gmail.png"
 ---
 
