@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google App Script on Biz Pro</title>
+    <link>https://biz-programming.net/tags/google-app-script/</link>
+    <description>Recent content in Google App Script on Biz Pro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Oct 2018 16:49:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://biz-programming.net/tags/google-app-script/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【前編】GoogleAppScriptで面倒な挨拶メール送信を自動化しよう! </title>
+      <link>https://biz-programming.net/posts/20181010_mailer_automation_1st/</link>
+      <pubDate>Mon, 15 Oct 2018 16:49:35 +0900</pubDate>
+      
+      <guid>https://biz-programming.net/posts/20181010_mailer_automation_1st/</guid>
+      <description>こんにちは。BizPro運営のmorioです。 記念すべき第一弾の記事では、GoogleAppScriptというプログラミング言語を利用した メール業務自動化をご紹介しようと思います。
+所要時間 15分
+できるようになること クライアントに送信する謹賀新年メールや暑中見舞いメール。多い営業マンは500通~1000通ものメールを送信すると言われています。
+この非生産的で嫌気のする業務をプログラムで自動化してしまいましょう。それもただの自動化ではなく、「人の心を残した自動化」です。
+本章では、 「クライアントに応じてメッセージを少しアレンジした謹賀新年メールを自動送信する」 プログラムを一緒に作成していきます。
+目次 前編(15分)  GoogleAppScriptとは? 使い方 メールを送信するプログラムを書いてみよう  後編(45分)  スプレッドシートから値を取得しよう メールの文面を少しずつ変えてみよう 一斉に送信しよう オススメ書籍  1. GoogleAppScriptとは GoogleAppScriptとは、Googleが提供するさまざまなアプリケーションを自動操作したり連携させるためのプログラミング言語です。
+JavaScriptを拡張しているつくられているため、大部分がJavaScriptと共通の文法をもっています。
+ビジネスパーソンが真っ先にGoogleAppScriptを学ぶべき理由 ビジネスパーソンがまっさきに学ぶべきプログラミング言語は間違いなくこのGoogleAppScriptです。
+
+1. 目の前の業務をすぐに自動化できる 今流行りのPythonなどは、優れたデータ分析を行えたり、Webアプリケーションを作成するのに極めて便利な言語です。 しかし、この言語を日々の業務に活用できるようになるまでは、少なくとも300時間はかかります。
+一方でこのGoogleAppScriptは、Gmailやカレンダー・スプレッドシートなどの処理を自動化することに特化しています。 日々の事務処理を自動化するということについては、もっとも学習効率が良い言語です。例えばgmailの自動化についてであれば2時間ほど学べばあらかた基本的な操作は抑えることができます。
+
+2. プログラミング環境の構築が必要ない Ruby, Python、C#, Scala など、皆さんも耳にしたとがある言語は、言語を動かすための設定(環境構築)をPC上で行わねばなりません。 初心者がこの環境構築を行おうとすると、平気で1日や1週間かかることもあります。
+しかし、GoogleAppScriptは特殊な言語で、環境構築が必要ありません。Gmailのアカウントとブラウザさえあれば実行することができてしまいます。事前準備がほぼ必要ないという点で、時間のないビジネスパーソンにとって非常に優れた言語なのです。
+2. 使い方 Gmailアカウントの用意 まずはGmailアカウントを用意しましょう。
+  スプレッドシートの作成 1. 以下のリンクを開いて、新しいスプレッドシートを作成しましょう。 GoogleSpreadSheet
+2. 新しいシートを作成しましょう 
+このようなシートが作成されます。
+
+※使用したことがない方に補足として一言で説明すると、GoogleSpreadSheetとはWeb上で他者と共有できるExcelです。
+スクリプトエディタの起動 つづいてGmailを自動操作するプログラムをかくための、スクリプトエディタを開きましょう。
+
+
+以下のような、GoogleAppScriptを書き実行するためのエディタがでてきます。</description>
+    </item>
+    
+  </channel>
+</rss>

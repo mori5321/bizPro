@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Biz Pro</title>
+    <link>https://biz-programming.net/tags/</link>
+    <description>Recent content in Tags on Biz Pro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Oct 2018 16:49:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://biz-programming.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google App Script</title>
+      <link>https://biz-programming.net/tags/google-app-script/</link>
+      <pubDate>Mon, 15 Oct 2018 16:49:35 +0900</pubDate>
+      
+      <guid>https://biz-programming.net/tags/google-app-script/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

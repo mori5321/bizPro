@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Biz Pro</title>
+    <link>https://biz-programming.net/categories/</link>
+    <description>Recent content in Categories on Biz Pro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    
+	<atom:link href="https://biz-programming.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>自動化</title>
+      <link>https://biz-programming.net/categories/%E8%87%AA%E5%8B%95%E5%8C%96/</link>
+      <pubDate>Mon, 15 Oct 2018 16:49:35 +0900</pubDate>
+      
+      <guid>https://biz-programming.net/categories/%E8%87%AA%E5%8B%95%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
